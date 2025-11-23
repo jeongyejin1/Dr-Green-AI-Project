@@ -1,0 +1,154 @@
+{
+  "Apple___Apple_scab": {
+    "disease_name": "사과 검은별무늬병 (갈색 부패)",
+    "solution": "감염된 잎과 과일을 즉시 제거하고 소각하세요. 봄철에 예방 살균제를 뿌리는 것이 중요합니다."
+  },
+  "Apple___Black_rot": {
+    "disease_name": "사과 검은썩음병",
+    "solution": "감염된 가지나 과일을 제거하고, 상처 부위에 보호제를 바르세요. 통풍이 잘되게 관리하는 것이 중요합니다."
+  },
+  "Apple___Cedar_apple_rust": {
+    "disease_name": "사과 붉은별무늬병 (향나무 녹병)",
+    "solution": "주변의 향나무(중간 숙주)를 제거하거나, 개화 직후 정기적으로 살균제를 살포해야 합니다."
+  },
+  "Apple___healthy": {
+    "disease_name": "건강한 사과 잎",
+    "solution": "아주 건강합니다! 지금처럼 물, 영양분, 햇빛을 적절히 공급하며 관리해주세요."
+  },
+  "Blueberry___healthy": {
+    "disease_name": "건강한 블루베리 잎",
+    "solution": "아주 건강합니다! 산성 토양을 잘 유지하고 있는지 확인해보세요."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "disease_name": "체리 흰가루병",
+    "solution": "감염된 잎을 제거하고 통풍이 잘되게 하세요. 습도가 높을 때 발생하기 쉽습니다. 적절한 살균제 사용을 고려하세요."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "disease_name": "건강한 체리 잎",
+    "solution": "아주 건강합니다! 지금처럼 관리해주세요."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "disease_name": "옥수수 회색잎반점병",
+    "solution": "병든 식물 잔재물을 제거하고, 밭의 통풍을 개선하세요. 저항성 품종을 심는 것이 좋습니다."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "disease_name": "옥수수 일반 녹병",
+    "solution": "심각하지 않으면 큰 문제가 되지 않을 수 있으나, 확산 시 살균제 사용을 고려할 수 있습니다. 통풍이 중요합니다."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "disease_name": "옥수수 북부잎마름병",
+    "solution": "병든 잎을 조기에 제거하고, 수확 후 잔재물을 깨끗이 처리하세요. 저항성 품종을 선택하는 것이 좋습니다."
+  },
+  "Corn_(maize)___healthy": {
+    "disease_name": "건강한 옥수수 잎",
+    "solution": "아주 건강합니다! 지금처럼 관리해주세요."
+  },
+  "Grape___Black_rot": {
+    "disease_name": "포도 검은썩음병",
+    "solution": "감염된 과일과 잎을 즉시 제거하세요. 비가 온 후 살균제를 예방적으로 살포하는 것이 효과적입니다."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "disease_name": "포도 에스카병 (흑색반점)",
+    "solution": "매우 치명적인 병입니다. 감염된 가지는 즉시 잘라내고, 상처 부위를 보호제로 처리하세요. 심하면 나무 전체를 제거해야 할 수 있습니다."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "disease_name": "포도 잎마름병",
+    "solution": "감염된 잎을 제거하고 소각하세요. 통풍을 개선하고, 필요시 살균제를 사용합니다."
+  },
+  "Grape___healthy": {
+    "disease_name": "건강한 포도 잎",
+    "solution": "아주 건강합니다! 지금처럼 관리해주세요."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "disease_name": "오렌지 감귤녹화병 (황룡병)",
+    "solution": "매우 심각한 질병으로, 매개충(귤나무이) 방제가 필수적입니다. 감염된 나무는 즉시 제거해야 합니다."
+  },
+  "Peach___Bacterial_spot": {
+    "disease_name": "복숭아 세균성구멍병",
+    "solution": "감염된 잎과 가지를 제거하세요. 비바람에 의해 확산되므로, 예방을 위해 보호용 살균제(구리 화합물 등)를 사용할 수 있습니다."
+  },
+  "Peach___healthy": {
+    "disease_name": "건강한 복숭아 잎",
+    "solution": "아주 건강합니다! 지금처럼 관리해주세요."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "disease_name": "피망 세균성점무늬병",
+    "solution": "감염된 식물을 즉시 제거하세요. 물을 줄 때 잎에 튀지 않도록 주의하고, 통풍을 개선하세요. 종자 소독이 중요합니다."
+  },
+  "Pepper,_bell___healthy": {
+    "disease_name": "건강한 피망 잎",
+    "solution": "아주 건강합니다! 지금처럼 관리해주세요."
+  },
+  "Potato___Early_blight": {
+    "disease_name": "감자 이른마름병 (조기역병)",
+    "solution": "아랫잎의 병든 잎을 제거하고, 물을 줄 때 잎이 젖지 않도록 주의하세요. 통풍을 잘 시키고 필요시 살균제를 사용합니다."
+  },
+  "Potato___Late_blight": {
+    "disease_name": "감자 늦마름병 (역병)",
+    "solution": "매우 빠르게 번지는 심각한 질병입니다. 감염된 식물은 즉시 제거하고 소각하세요. 예방적 살균제 살포가 중요합니다."
+  },
+  "Potato___healthy": {
+    "disease_name": "건강한 감자 잎",
+    "solution": "아주 건강합니다! 지금처럼 관리해주세요."
+  },
+  "Raspberry___healthy": {
+    "disease_name": "건강한 라즈베리 잎",
+    "solution": "아주 건강합니다! 지금처럼 관리해주세요."
+  },
+  "Soybean___healthy": {
+    "disease_name": "건강한 콩 잎",
+    "solution": "아주 건강합니다! 지금처럼 관리해주세요."
+  },
+  "Squash___Powdery_mildew": {
+    "disease_name": "호박 흰가루병",
+    "solution": "감염 초기 잎을 제거하고, 통풍이 잘되게 하세요. 습도가 높은 것을 피하세요. 친환경 살균제(유황, 오일 등)나 전문 살균제를 사용할 수 있습니다."
+  },
+  "Strawberry___Leaf_scorch": {
+    "disease_name": "딸기 잎마름병",
+    "solution": "감염된 잎을 제거하고 소각하세요. 통풍을 개선하고, 물을 줄 때 잎에 닿지 않도록 합니다."
+  },
+  "Strawberry___healthy": {
+    "disease_name": "건강한 딸기 잎",
+    "solution": "아주 건강합니다! 지금처럼 관리해주세요."
+  },
+  "Tomato___Bacterial_spot": {
+    "disease_name": "토마토 세균성점무늬병",
+    "solution": "감염된 잎이나 과일은 즉시 제거하세요. 물을 줄 때 잎에 튀지 않도록 하고, 통풍을 잘 시켜주세요."
+  },
+  "Tomato___Early_blight": {
+    "disease_name": "토마토 이른마름병",
+    "solution": "아랫잎의 병든 잎을 제거하고, 흙이 잎에 튀지 않도록 멀칭을 하세요. 통풍을 개선하고 필요시 살균제를 사용합니다."
+  },
+  "Tomato___Late_blight": {
+    "disease_name": "토마토 잎마름병",
+    "solution": "습한 환경을 피하고 통풍이 잘되게 하세요. 감염 초기에 즉시 감염된 잎을 제거해야 합니다. 매우 빠르게 번집니다."
+  },
+  "Tomato___Leaf_Mold": {
+    "disease_name": "토마토 잎곰팡이병",
+    "solution": "습도가 매우 높을 때 발생합니다. 환기를 극대화하고, 감염된 잎을 제거하세요. 물을 아침 일찍 주는 것이 좋습니다."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "disease_name": "토마토 셉토리아잎반점병",
+    "solution": "감염된 아랫잎을 즉시 제거하고 소각하세요. 흙이 튀지 않도록 멀칭을 하고, 통풍을 잘 시켜주세요."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "disease_name": "토마토 점박이응애 (해충)",
+    "solution": "잎 뒷면을 물로 강하게 씻어내거나, 친환경 살충제(응애 전문 약제, 오일 등)를 사용하세요. 매우 건조할 때 발생하기 쉽습니다."
+  },
+  "Tomato___Target_Spot": {
+    "disease_name": "토마토 과녁무늬병",
+    "solution": "감염된 잎과 과일을 제거하고, 통풍을 개선하세요. 수확 후 잔재물을 깨끗이 처리하는 것이 중요합니다."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease_name": "토마토 황화잎말림바이러스 (TYLCV)",
+    "solution": "바이러스는 치료가 불가능합니다. 매개충(담배가루이)을 철저히 방제해야 합니다. 감염된 식물은 즉시 뽑아서 제거하세요."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "disease_name": "토마토 모자이크바이러스 (ToMV)",
+    "solution": "바이러스는 치료가 불가능합니다. 감염된 식물은 즉시 뽑아서 제거하세요. 작업 시 손을 자주 씻어 확산을 막아야 합니다."
+  },
+  "Tomato___healthy": {
+    "disease_name": "건강한 토마토 잎",
+    "solution": "훌륭합니다! 꾸준히 물과 영양분을 공급해주세요."
+  }
+}
