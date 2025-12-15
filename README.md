@@ -13,7 +13,8 @@
 
 | 메인 화면 & 이미지 업로드 | AI 진단 결과 & 솔루션 |
 | :---: | :---: |
-| ![Main Screen](https://via.placeholder.com/400x300?text=Main+Screen+Screenshot) | ![Result Screen](https://via.placeholder.com/400x300?text=Result+Screenshot) |
+| ![Main Screen](./assets/main_screen.png) | ![Result Screen](./assets/result_screen.png) |
+
 **📺 [유튜브 시연 영상 보러가기](https://youtu.be/TTor1DFvPoY)**
 
 ---
