@@ -67,7 +67,7 @@ Dr-Green-Project
 │   │   └── App.css      # 스타일 시트
 │   └── package.json     # 프론트엔드 의존성 목록
 └── README.md
-
+```bash
 ## 💡 핵심 기술 및 개발 내용 (Key Features)
 
 ### 1. AI 모델링 (Deep Learning)
