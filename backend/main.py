@@ -93,3 +93,7 @@ async def analyze_plant(file: UploadFile = File(...)):
         "disease_name": solution_data.get("disease_name"),
         "solution": solution_data.get("solution")
     }
+if __name__ == "__main__":
+    import uvicorn
+    # 127.0.0.1:8000 포트에서 실행
+    uvicorn.run(app, host="127.0.0.1", port=8000)
